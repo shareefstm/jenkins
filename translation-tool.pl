@@ -485,6 +485,6 @@ Usage: $0 --lang=xx [options] [dir]
         $0 --lang=ja --to-ascii .
      - Remove all orphaned keys from German files which are in the current file
         $0 --lang=de --remove .
-
+hai good morning
 ";
 }
